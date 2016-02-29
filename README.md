@@ -71,3 +71,4 @@ Charity Causes and Honors
 
 Contact
 -------
+[<img src="images/email.png">](williambautista@gmail.com)
