@@ -71,4 +71,7 @@ Charity Causes and Honors
 
 Contact
 -------
-[<img src="images/email.png">](williambautista@gmail.com)
+<img src="images/email.png"> williambautista@gmail.com
+
+[<img src="images/linkedin.png" style="width: 60px">](https://uk.linkedin.com/in/willibaur
+)
