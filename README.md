@@ -5,7 +5,7 @@
 
 I am a Junior Full Stack Web Developer, passionate about test driven development end to end and best practices like BDD, TDD and OOP by doing pair programming.
 
-Also, I am a Mechatronic engineer who love working with mobile robots and learning as much as possible about advanced maths and artificial intelligence.
+Also, I am a Mechatronic engineer who loves working with mobile robots, advanced maths and artificial intelligence.
 
 I firmly believe that knowledge has no limit and the best way to master something is sharing it with the whole world, open source is the key to do so.
 
@@ -14,7 +14,7 @@ I firmly believe that knowledge has no limit and the best way to master somethin
 #### _Skills and projects_
 ---
 
-Below there are some of my projects at Makers, technologies and testing frameworks used. I am constantly improving them.
+Below there are some of my projects done at Makers Academy, technologies and testing frameworks used. I am constantly improving them.
 
 |                                **Name**                                |                                                              **Description**                                                              |                                **Languages**                                |             **Testing**             |
 |:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:-----------------------------------:|
