@@ -1,76 +1,102 @@
-William Bautista
-================
+<center> WILLIAM BAUTISTA-ROMERO
+================================
 
-*As an Engineer I learned that Coding and building robots are my two big passions after my family.*
+&nbsp;
 
-*So I studied Mechatronics, but some years ago I realized that I needed to learn how to code using the best practices and I went to the best code boot camp.*
+I am a Junior Full Stack Web Developer, passionate about test driven development end to end and best practices like BDD, TDD and OOP by doing pair programming.
 
-*I want to apply everything I learned as Full Stack Web Developer within your company.*
+Also, I am a Mechatronic engineer who love working with mobile robots and learning as much as possible about advanced maths and artificial intelligence.
 
+I firmly believe that knowledge has no limit and the best way to master something is sharing it with the whole world, open source is the key to do so.
 
-Skills
-------
-* Using core concepts of OOP such as SOLID, DRY and best practices like TDD, agile and pair programming, I can be part of a team to produce clean, readable and end-to-end tested code.
-* Comfortable by using languages Ruby, JavaScript, Java and C++.
-* Able to test code thanks to RSpec, Capybara, Selenium, Jasmine, Karma and Protactor.
-* If I need applications in need of persisting data I can use Postgres, Firebase and MongoDB.
-* For a nice styling in the front end, I can mix HTML5, CSS3 and SCSS.
-* Interaction between environments mentioned above thanks to the use of frameworks such as Rails, AngularJS, Sinatra, Node and Firebase.
-* For keeping control of hundreds of lines of code and folder structures, source version control using Git and Waffle.io
+&nbsp;
 
-Education
----------
+#### _Skills and projects_
+---
 
-**_Full Stack Web Developer - Makers Academy_**    
-_2015 - 2016_
+Below there are some of my projects at Makers, technologies and testing frameworks used. I am constantly improving them.
 
-* 16 weeks full-time bootcamp focused on Web Development Software.
-* Strong foundations on best practices and end-to-end test driven development.  
+|                                **Name**                                |                                                              **Description**                                                              |                                **Languages**                                |             **Testing**             |
+|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:-----------------------------------:|
+|            [Politify](https://github.com/Willibaur/politify)           | App which provides full info from MPs based on any  U.K. postcode, customized with a google search engine, twitter api and mail service.  |                  JavaScript, AngularJS, Firebase, HTML, CSS                 |      Jasmine, Karma, Protractor     |
+|     [Platform Finder](https://github.com/Willibaur/platform-finder)    | Web app that will help a user receive their train  platform number via a text message.                                                    | Ruby, Rails, AngularJS, Sidekiq, JQuery, BootStrap Postgress, Redis, Twilio |      Jasmine, Karma, Protractor     |
+|        [Todo List](https://github.com/Willibaur/todo_challenge)        | Web app that provides a simple todo list to the user.                                                                                     |                          AngularJS, CSS, JavaScript                         | Karma, Protractor Capybara, Jasmine |
+| [Rock, Paper and Scissors](https://github.com/Willibaur/rps-challenge) | The goal was to build a system that emulates a rps game.                                                                                  |                           Ruby, Sinatra, Selenium                           |           RSpec, Capybara           |
 
+&nbsp;
 
-**_Object Oriented programming with JAVA - City University London_**  
-_2014_
+#### _Education_
+---
+**_Junior Full Stack Web Developer   
+Makers Academy – 2015/2016_**
 
-* 6 months part-time course about understanding of core concepts of OOP using JAVA, Swing and BlueJ.
+Makers Academy is the leading code boot-camp in Europe, passionate about agile, best  practices, end to end testing and software craftsmanship oriented to Web Development.
 
+**_Object Oriented Practice with JAVA  
+City University London 2014_**
 
-**_Mechatronic Engineer - Nueva Granada Army University_**  
-_1997-2012_
-
-* Mechatronics is a blend of mechanical and electronic engineering, control and information technology.
+I learned Java by using OOP and pair programming; some topics included threads, GUI development and event handling using Swing, networking and I/O, alongside testing and design patterns.
 
 
-Experience
-----------
-**_Gorkana Group_**  
-Sep 2008 – Nov 2015
-* New Media (Netmon) Reader Analyst  
+**_Mechatronic Engineer  
+Nueva Granada Army University – 1997/2012_**
 
-**_Colombiatech Global Business Ltd._**  
-Mar 2000 – Dec 2012  
-* Partner  
+Mechatronics is a blend of mechanical engineering, electrical engineering, computer control and information technology.
 
-**_Eagle Services Ltd._**  
-Oct 2005 – Dec 2006  
-* Area Manager  
+&nbsp;
 
-
-Charity Causes and Honors
+#### _Experience_
 -------------------------
 
-**_Code Club Volunteer_**  
-2014 - Present
+**_Alumni Helper  
+Makers Academy – 2016/Present_**
+
+I am providing guidance and support for junior and senior students at Makers on their daily coding issues.
+
+**_New Media (Netmon) Reader Analyst  
+Gorkana Group – 2008/2015_**
+
+I was in charge of analyze, evaluate and summarize 3000+ daily reports from specialized websites, radio and TV stations according to client bespoke requirements.
+
+**_Partner  
+Colombiatech Global Business Ltd. – 2000/2012_**
+
+I kept control over budget, recruitment and purchase divisions. I coordinated electronic, mechanical, software developers and biomedical engineers, in order to create prototypes for mobile robots.
+
+**_Area Manager  
+Eagle Services Ltd.  2005/2006_**  
+
+Customer Services and Quality Control departments where under my supervision; also,  I was responsible for maintaining budgets on track and backing sales team for tendering processes.
+
+&nbsp;
+
+#### _Charitable Causes and honors_
+--------------------
+
+**_Code Club –  Volunteer  
+2014-Present_**
+
+Code Club is a nationwide network of free volunteer-led after-school coding clubs for children aged 9-11.
+
+**_STEMNET –  Ambassador  
+2015-Present_**
+
+STEM Ambassadors get involved in a huge range of activities, which can all have an impact on young people’s learning and enjoyment of STEM -Science, Technology, Engineering and Maths-.
 
 
-**_STEMNET Ambassador_**  
-2015 - Present
+**_Colombian Army – Reserve Lieutenant  
+2006_**  
 
+I am part of the Colombian Army Reserve Forces, specialized in Logistics and Transportation.
 
-**_Reserve Colombian Army Lieutenant_**  
-2006 - Present
+&nbsp;
 
-Contact
+#### _Languages_
+-----------
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_English_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **_Spanish_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **_Portuguese_**  
+Bilingual proficiency&nbsp;&nbsp;&nbsp;&nbsp; Native &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic level
+&nbsp;
 -------
-williambautista@gmail.com
 
-[linkedin](https://uk.linkedin.com/in/willibaur)
+<center> [Email](williambautista@gmail.com) - [Linkedin](uk.linkedin.com/in/willibaur) - [Github](github.com/Willibaur) -  [Codewars](http://www.codewars.com/users/willibaur) - [Blog](https://willibaur.github.io/)
