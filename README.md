@@ -1,4 +1,4 @@
-<center> WILLIAM BAUTISTA-ROMERO </center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WILLIAM BAUTISTA-ROMERO
 ================================
 
 &nbsp;
@@ -99,4 +99,4 @@ Bilingual proficiency&nbsp;&nbsp;&nbsp;&nbsp; Native &nbsp;&nbsp;&nbsp;&nbsp;&nb
 &nbsp;
 -------
 
-<center> [Email](williambautista@gmail.com) - [Linkedin](uk.linkedin.com/in/willibaur) - [Github](github.com/Willibaur) -  [Codewars](http://www.codewars.com/users/willibaur) - [Blog](https://willibaur.github.io/) </center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](williambautista@gmail.com) - [Linkedin](uk.linkedin.com/in/willibaur) - [Github](github.com/Willibaur) -  [Codewars](http://www.codewars.com/users/willibaur) - [Blog](https://willibaur.github.io/)
