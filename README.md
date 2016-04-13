@@ -23,13 +23,13 @@ Makers Academy – 2015/2016_**
 Makers Academy is the leading code boot-camp in Europe, passionate about agile, best  practices, end to end testing and software craftsmanship oriented to prepare you as Junior Full Stack Web Developer.
 
 **_Object Oriented Programming with JAVA  
-City University London 2014_**
+City University London – 2014_**
 
 This course is design to equip students to teach Java using the object-oriented design and implementation approach; some topics included threads, GUI development and event handling using Swing, networking and I/O, alongside testing and design patterns.
 
 
 **_Mechatronic Engineer  
-Nueva Granada Army University – 1997/2012_**
+Nueva Granada Army University – 1997/2002_**
 
 The “Militar Nueva Granada” university is one of the most prestigious universities in Bogotá, Colombia. I had the privilege to finish my bachelor’s degree on Mechatronics and Robotics there.
 
@@ -53,7 +53,7 @@ Gorkana Group – 2008/2015_**
 I was in charge of analyze, evaluate and summarize 3000+ daily reports from specialized websites, radio and TV stations according to client bespoke requirements. I reached such volume of content due to my high speed reading ability developed during the last 15 years.
 
 
-**_Client Relationship - Area Manager  
+**_Client Relationship – Area Manager  
 Eagle Services Ltd.  2005/2008_**  
 
 Responsible to design and implement the various quality controls across the company in order to keep our customer service satisfaction at the highest standards.
